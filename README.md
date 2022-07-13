@@ -28,7 +28,7 @@
 <td colspan="4">Sistema desenvolvido na plataforma WORDPRESS + ELEMENTOR PRO para vendas de hospedagem de sites, certificados SSL, dominios, servidores VPS, servidores dedicados, tendo seu principal objetivo vendas de hospedagem de sites e dominios.</td>
 </tr>
 <tr>
-<td style="width: 25%;" colspan="4"><img src="https://user-images.githubusercontent.com/109168134/178814859-7b67da09-6589-42cf-ba1f-368bc08fb2d2.png" alt="" /></td>
+<td style="width: 25%;" colspan="4"><img src="https://user-images.githubusercontent.com/109168134/178822334-a09359ce-1599-420d-bae5-5b9b0c5e9b8c.png" alt="" /></td>
 </tr>
 </tbody>
 </table>
